@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>accountable_project_manager</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-23 13:49:48</sys_created_on>
+        <sys_id>0390eb71db44c890e55d7b1ebf9619b4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>accountable_project_manager</sys_name>
+        <sys_package display_value="CER" source="x_172976_cer">8a858cc1dbc0c490e55d7b1ebf961994</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CER">8a858cc1dbc0c490e55d7b1ebf961994</sys_scope>
+        <sys_update_name>sys_ui_policy_action_0390eb71db44c890e55d7b1ebf9619b4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-23 13:49:48</sys_updated_on>
+        <table>x_172976_cer_cer_request</table>
+        <ui_policy display_value="Show - Hide ">96002b7ddb04c890e55d7b1ebf96192c</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="CER">8a858cc1dbc0c490e55d7b1ebf961994</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-01 15:16:35</sys_created_on>
+        <sys_id>f951012cdbd444d0e55d7b1ebf96197e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Glide API: properties</sys_name>
+        <sys_package display_value="CER" source="x_172976_cer">8a858cc1dbc0c490e55d7b1ebf961994</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CER">8a858cc1dbc0c490e55d7b1ebf961994</sys_scope>
+        <sys_update_name>sys_scope_privilege_f951012cdbd444d0e55d7b1ebf96197e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-01 15:16:35</sys_updated_on>
+        <target_name>Glide API: properties</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>scriptable</target_type>
+    </sys_scope_privilege>
+</record_update>

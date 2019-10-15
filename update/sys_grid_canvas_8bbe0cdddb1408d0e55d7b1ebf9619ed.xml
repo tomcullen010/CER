@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas">
+    <sys_grid_canvas action="INSERT_OR_UPDATE">
+        <legacy_page display_value="PA New Tab">87be0cdddb1408d0e55d7b1ebf9619ec</legacy_page>
+        <name>PA New Tab</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>ed.banaag</sys_created_by>
+        <sys_created_on>2019-10-03 19:30:57</sys_created_on>
+        <sys_id>8bbe0cdddb1408d0e55d7b1ebf9619ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA New Tab</sys_name>
+        <sys_package display_value="CER" source="x_172976_cer">8a858cc1dbc0c490e55d7b1ebf961994</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CER">8a858cc1dbc0c490e55d7b1ebf961994</sys_scope>
+        <sys_update_name>sys_grid_canvas_8bbe0cdddb1408d0e55d7b1ebf9619ed</sys_update_name>
+        <sys_updated_by>ed.banaag</sys_updated_by>
+        <sys_updated_on>2019-10-03 19:30:57</sys_updated_on>
+    </sys_grid_canvas>
+</record_update>

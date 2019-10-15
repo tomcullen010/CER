@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="EXPENDITURE SCHEDULE" section_id="e6988ee9dbcc4890e55d7b1ebf96194a" sys_domain="global" table="x_172976_cer_cer_request" version="3" view="">
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-03 19:09:09</sys_created_on>
+            <sys_id>bfb9c099db1408d0e55d7b1ebf9619cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-03 19:09:09</sys_updated_on>
+            <text>Capital</text>
+            <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-03 19:09:09</sys_created_on>
+            <sys_id>3bb9c099db1408d0e55d7b1ebf9619cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-03 19:09:09</sys_updated_on>
+            <text>Project Expense</text>
+            <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
+        </sys_ui_annotation>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>bfb9c099db1408d0e55d7b1ebf9619cb</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-03 19:09:09</sys_created_on>
+            <sys_id>3fb9c099db1408d0e55d7b1ebf9619e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="EXPENDITURE SCHEDULE" display_value="EXPENDITURE SCHEDULE" name="x_172976_cer_cer_request" sys_domain="global" view="Default view">e6988ee9dbcc4890e55d7b1ebf96194a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-03 19:09:09</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_1st_quarter_cap</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-03 19:09:09</sys_created_on>
+            <sys_id>b3b9c099db1408d0e55d7b1ebf9619e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="EXPENDITURE SCHEDULE" display_value="EXPENDITURE SCHEDULE" name="x_172976_cer_cer_request" sys_domain="global" view="Default view">e6988ee9dbcc4890e55d7b1ebf96194a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-03 19:09:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_2nd_quarter_cap</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-03 19:09:09</sys_created_on>
+            <sys_id>08c9c099db1408d0e55d7b1ebf9619e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="EXPENDITURE SCHEDULE" display_value="EXPENDITURE SCHEDULE" name="x_172976_cer_cer_request" sys_domain="global" view="Default view">e6988ee9dbcc4890e55d7b1ebf96194a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-03 19:09:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_3rd_quarter_cap</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-03 19:09:09</sys_created_on>
+            <sys_id>8cc9c099db1408d0e55d7b1ebf9619e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="EXPENDITURE SCHEDULE" display_value="EXPENDITURE SCHEDULE" name="x_172976_cer_cer_request" sys_domain="global" view="Default view">e6988ee9dbcc4890e55d7b1ebf96194a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-03 19:09:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_4th_quarter_cap</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-03 19:09:09</sys_created_on>
+            <sys_id>04c9c099db1408d0e55d7b1ebf9619e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="EXPENDITURE SCHEDULE" display_value="EXPENDITURE SCHEDULE" name="x_172976_cer_cer_request" sys_domain="global" view="Default view">e6988ee9dbcc4890e55d7b1ebf96194a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-03 19:09:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>total_bud_year_cap</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-03 19:09:09</sys_created_on>
+            <sys_id>88c9c099db1408d0e55d7b1ebf9619e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="EXPENDITURE SCHEDULE" display_value="EXPENDITURE SCHEDULE" name="x_172976_cer_cer_request" sys_domain="global" view="Default view">e6988ee9dbcc4890e55d7b1ebf96194a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-03 19:09:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>next_year_cap</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-03 19:09:09</sys_created_on>
+            <sys_id>c4c9c099db1408d0e55d7b1ebf9619f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="EXPENDITURE SCHEDULE" display_value="EXPENDITURE SCHEDULE" name="x_172976_cer_cer_request" sys_domain="global" view="Default view">e6988ee9dbcc4890e55d7b1ebf96194a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-03 19:09:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-03 19:09:09</sys_created_on>
+            <sys_id>4cc9c099db1408d0e55d7b1ebf9619f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="EXPENDITURE SCHEDULE" display_value="EXPENDITURE SCHEDULE" name="x_172976_cer_cer_request" sys_domain="global" view="Default view">e6988ee9dbcc4890e55d7b1ebf96194a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-03 19:09:09</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>3bb9c099db1408d0e55d7b1ebf9619cc</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-03 19:09:09</sys_created_on>
+            <sys_id>c0c9c099db1408d0e55d7b1ebf9619f3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="EXPENDITURE SCHEDULE" display_value="EXPENDITURE SCHEDULE" name="x_172976_cer_cer_request" sys_domain="global" view="Default view">e6988ee9dbcc4890e55d7b1ebf96194a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-03 19:09:09</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_1st_quarter_proj</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-03 19:09:09</sys_created_on>
+            <sys_id>48c9c099db1408d0e55d7b1ebf9619f3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="EXPENDITURE SCHEDULE" display_value="EXPENDITURE SCHEDULE" name="x_172976_cer_cer_request" sys_domain="global" view="Default view">e6988ee9dbcc4890e55d7b1ebf96194a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-03 19:09:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_2nd_quarter_proj</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-03 19:09:09</sys_created_on>
+            <sys_id>ccc9c099db1408d0e55d7b1ebf9619f3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="EXPENDITURE SCHEDULE" display_value="EXPENDITURE SCHEDULE" name="x_172976_cer_cer_request" sys_domain="global" view="Default view">e6988ee9dbcc4890e55d7b1ebf96194a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-03 19:09:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_3rd_quarter_proj</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-03 19:09:09</sys_created_on>
+            <sys_id>44c9c099db1408d0e55d7b1ebf9619f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="EXPENDITURE SCHEDULE" display_value="EXPENDITURE SCHEDULE" name="x_172976_cer_cer_request" sys_domain="global" view="Default view">e6988ee9dbcc4890e55d7b1ebf96194a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-03 19:09:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_4th_quarter_proj</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-03 19:09:09</sys_created_on>
+            <sys_id>c8c9c099db1408d0e55d7b1ebf9619f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="EXPENDITURE SCHEDULE" display_value="EXPENDITURE SCHEDULE" name="x_172976_cer_cer_request" sys_domain="global" view="Default view">e6988ee9dbcc4890e55d7b1ebf96194a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-03 19:09:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>total_bud_year_proj</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-03 19:09:09</sys_created_on>
+            <sys_id>40c9c099db1408d0e55d7b1ebf9619f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="EXPENDITURE SCHEDULE" display_value="EXPENDITURE SCHEDULE" name="x_172976_cer_cer_request" sys_domain="global" view="Default view">e6988ee9dbcc4890e55d7b1ebf96194a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-03 19:09:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>next_year_proj</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-03 19:09:09</sys_created_on>
+            <sys_id>c4c9c099db1408d0e55d7b1ebf9619f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="EXPENDITURE SCHEDULE" display_value="EXPENDITURE SCHEDULE" name="x_172976_cer_cer_request" sys_domain="global" view="Default view">e6988ee9dbcc4890e55d7b1ebf96194a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-03 19:09:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>EXPENDITURE SCHEDULE</caption>
+            <header>false</header>
+            <name>x_172976_cer_cer_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-22 12:46:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e6988ee9dbcc4890e55d7b1ebf96194a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>EXPENDITURE SCHEDULE</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="CER" source="x_172976_cer">8a858cc1dbc0c490e55d7b1ebf961994</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CER">8a858cc1dbc0c490e55d7b1ebf961994</sys_scope>
+            <sys_update_name>sys_ui_section_e6988ee9dbcc4890e55d7b1ebf96194a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-22 12:46:10</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

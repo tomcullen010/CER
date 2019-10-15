@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_decision">
+    <sys_decision action="DELETE">
+        <access>public</access>
+        <active>true</active>
+        <answer_table>x_172976_cer_cer_decision</answer_table>
+        <answer_type>reference</answer_type>
+        <label/>
+        <name>CER Dynamic Approvals</name>
+        <reference_qualifier/>
+        <sys_class_name>sys_decision</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-11 13:37:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b35ac077db508014e55d7b1ebf96196a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CER Dynamic Approvals</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CER" source="x_172976_cer">8a858cc1dbc0c490e55d7b1ebf961994</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CER">8a858cc1dbc0c490e55d7b1ebf961994</sys_scope>
+        <sys_update_name>sys_decision_b35ac077db508014e55d7b1ebf96196a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-11 13:37:21</sys_updated_on>
+    </sys_decision>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CER">8a858cc1dbc0c490e55d7b1ebf961994</application>
+        <file_path/>
+        <instance_id>66b7c97d4f0f12007b9b220f0310c733</instance_id>
+        <instance_name>dev22672</instance_name>
+        <name>sys_decision_b35ac077db508014e55d7b1ebf96196a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_decision"><sys_decision action="INSERT_OR_UPDATE"><access>public</access><active>true</active><answer_table>x_172976_cer_cer_decision</answer_table><answer_type>reference</answer_type><label/><name>CER Dynamic Approvals</name><reference_qualifier/><sys_class_name>sys_decision</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-11 13:37:21</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b35ac077db508014e55d7b1ebf96196a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CER Dynamic Approvals</sys_name><sys_overrides/><sys_package display_value="CER" source="x_172976_cer">8a858cc1dbc0c490e55d7b1ebf961994</sys_package><sys_policy/><sys_scope display_value="CER">8a858cc1dbc0c490e55d7b1ebf961994</sys_scope><sys_update_name>sys_decision_b35ac077db508014e55d7b1ebf96196a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-11 13:37:21</sys_updated_on></sys_decision></record_update>]]></payload>
+        <payload_hash>1830859080</payload_hash>
+        <record_name>CER Dynamic Approvals</record_name>
+        <reverted_from/>
+        <source>0e850c05dbc0c490e55d7b1ebf9619df</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-11 13:37:21</sys_created_on>
+        <sys_id>218acc77db508014e55d7b1ebf961956</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16dbb09c1620000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-11 13:37:21</sys_updated_on>
+        <type>Decision Table</type>
+        <update_guid>698acc772c50801422cdff6e08892a55</update_guid>
+        <update_guid_history>698acc772c50801422cdff6e08892a55:1830859080</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-11 13:44:14</sys_created_on>
+        <sys_db_object display_value="" name="sys_decision">sys_decision</sys_db_object>
+        <sys_id>0008b8a099fc4a5c8044ed4ce71580e9</sys_id>
+        <sys_metadata>b35ac077db508014e55d7b1ebf96196a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CER Dynamic Approvals</sys_name>
+        <sys_package display_value="CER" source="x_172976_cer">8a858cc1dbc0c490e55d7b1ebf961994</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CER">8a858cc1dbc0c490e55d7b1ebf961994</sys_scope>
+        <sys_scope_delete display_value="">4958406062eb4f969acbb5398f225bc4</sys_scope_delete>
+        <sys_update_name>sys_decision_b35ac077db508014e55d7b1ebf96196a</sys_update_name>
+        <sys_update_version display_value="sys_decision_b35ac077db508014e55d7b1ebf96196a">218acc77db508014e55d7b1ebf961956</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-11 13:44:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

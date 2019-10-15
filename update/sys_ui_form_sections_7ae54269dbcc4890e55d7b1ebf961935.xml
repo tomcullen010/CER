@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="7ae54269dbcc4890e55d7b1ebf961935" sys_domain="global" table="x_172976_cer_cer_request" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-22 12:34:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f2e54269dbcc4890e55d7b1ebf961938</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_172976_cer_cer_request" name="x_172976_cer_cer_request" sys_domain="global" view="Default view">7ae54269dbcc4890e55d7b1ebf961935</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_172976_cer_cer_request" sys_domain="global" view="Default view">a6424e25dbcc4890e55d7b1ebf961966</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-22 12:34:26</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-22 12:34:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f2e54269dbcc4890e55d7b1ebf961939</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_172976_cer_cer_request" name="x_172976_cer_cer_request" sys_domain="global" view="Default view">7ae54269dbcc4890e55d7b1ebf961935</sys_ui_form>
+            <sys_ui_section caption="CAPITALIZATION ASSIGNMENT" display_value="CAPITALIZATION ASSIGNMENT" name="x_172976_cer_cer_request" sys_domain="global" view="Default view">3ae54269dbcc4890e55d7b1ebf961934</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-22 12:34:26</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-22 12:37:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>92960e69dbcc4890e55d7b1ebf961915</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_172976_cer_cer_request" name="x_172976_cer_cer_request" sys_domain="global" view="Default view">7ae54269dbcc4890e55d7b1ebf961935</sys_ui_form>
+            <sys_ui_section caption="EXPENDITURE PROFILE" display_value="EXPENDITURE PROFILE" name="x_172976_cer_cer_request" sys_domain="global" view="Default view">16960e69dbcc4890e55d7b1ebf961912</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-22 12:37:25</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-22 12:46:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2a988ee9dbcc4890e55d7b1ebf96194d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_172976_cer_cer_request" name="x_172976_cer_cer_request" sys_domain="global" view="Default view">7ae54269dbcc4890e55d7b1ebf961935</sys_ui_form>
+            <sys_ui_section caption="EXPENDITURE SCHEDULE" display_value="EXPENDITURE SCHEDULE" name="x_172976_cer_cer_request" sys_domain="global" view="Default view">e6988ee9dbcc4890e55d7b1ebf96194a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-22 12:46:10</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-23 13:59:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>30f26335db44c890e55d7b1ebf9619e6</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_172976_cer_cer_request" name="x_172976_cer_cer_request" sys_domain="global" view="Default view">7ae54269dbcc4890e55d7b1ebf961935</sys_ui_form>
+            <sys_ui_section caption="Additional Approvals" display_value="Additional Approvals" name="x_172976_cer_cer_request" sys_domain="global" view="Default view">fcf26335db44c890e55d7b1ebf96193f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-03 13:36:01</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_172976_cer_cer_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-22 12:34:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7ae54269dbcc4890e55d7b1ebf961935</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_172976_cer_cer_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="CER" source="x_172976_cer">8a858cc1dbc0c490e55d7b1ebf961994</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CER">8a858cc1dbc0c490e55d7b1ebf961994</sys_scope>
+            <sys_update_name>sys_ui_form_sections_7ae54269dbcc4890e55d7b1ebf961935</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-22 12:34:26</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>New CER Task</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>CER Task</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">324428b4db323300e55d7b1ebf9619e6</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-20 14:00:30</sys_created_on>
+        <sys_id>3f66c845dbc0c490e55d7b1ebf961952</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CER Task</sys_name>
+        <sys_package display_value="CER" source="x_172976_cer">8a858cc1dbc0c490e55d7b1ebf961994</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CER">8a858cc1dbc0c490e55d7b1ebf961994</sys_scope>
+        <sys_update_name>sys_wizard_answer_3f66c845dbc0c490e55d7b1ebf961952</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-20 14:00:30</sys_updated_on>
+        <table/>
+        <target_url>x_172976_cer_cer_task.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

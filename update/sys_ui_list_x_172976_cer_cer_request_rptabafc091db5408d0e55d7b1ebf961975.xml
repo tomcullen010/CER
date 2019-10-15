@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_172976_cer_cer_request" version="2" view="RPTabafc091db5408d0e55d7b1ebf961975">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_172976_cer_cer_request" element="NULL" name="x_172976_cer_cer_request" parent="NULL" relationship="NULL" sys_domain="global" view="abafc091db5408d0e55d7b1ebf961979">16b19095db5408d0e55d7b1ebf9619da</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>ed.banaag</sys_created_by>
+            <sys_created_on>2019-10-03 19:43:59</sys_created_on>
+            <sys_id>5ab19095db5408d0e55d7b1ebf9619da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ed.banaag</sys_updated_by>
+            <sys_updated_on>2019-10-03 19:43:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>priority</element>
+            <list_id display_value="x_172976_cer_cer_request" element="NULL" name="x_172976_cer_cer_request" parent="NULL" relationship="NULL" sys_domain="global" view="abafc091db5408d0e55d7b1ebf961979">16b19095db5408d0e55d7b1ebf9619da</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>ed.banaag</sys_created_by>
+            <sys_created_on>2019-10-03 19:43:59</sys_created_on>
+            <sys_id>dab19095db5408d0e55d7b1ebf9619da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ed.banaag</sys_updated_by>
+            <sys_updated_on>2019-10-03 19:43:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="x_172976_cer_cer_request" element="NULL" name="x_172976_cer_cer_request" parent="NULL" relationship="NULL" sys_domain="global" view="abafc091db5408d0e55d7b1ebf961979">16b19095db5408d0e55d7b1ebf9619da</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>ed.banaag</sys_created_by>
+            <sys_created_on>2019-10-03 19:43:59</sys_created_on>
+            <sys_id>5eb19095db5408d0e55d7b1ebf9619da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ed.banaag</sys_updated_by>
+            <sys_updated_on>2019-10-03 19:43:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assigned_to</element>
+            <list_id display_value="x_172976_cer_cer_request" element="NULL" name="x_172976_cer_cer_request" parent="NULL" relationship="NULL" sys_domain="global" view="abafc091db5408d0e55d7b1ebf961979">16b19095db5408d0e55d7b1ebf9619da</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>ed.banaag</sys_created_by>
+            <sys_created_on>2019-10-03 19:43:59</sys_created_on>
+            <sys_id>deb19095db5408d0e55d7b1ebf9619da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ed.banaag</sys_updated_by>
+            <sys_updated_on>2019-10-03 19:43:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_172976_cer_cer_request</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>ed.banaag</sys_created_by>
+            <sys_created_on>2019-10-03 19:43:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>16b19095db5408d0e55d7b1ebf9619da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_172976_cer_cer_request</sys_name>
+            <sys_package display_value="CER" source="x_172976_cer">8a858cc1dbc0c490e55d7b1ebf961994</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CER">8a858cc1dbc0c490e55d7b1ebf961994</sys_scope>
+            <sys_update_name>sys_ui_list_x_172976_cer_cer_request_RPTabafc091db5408d0e55d7b1ebf961975</sys_update_name>
+            <sys_updated_by>ed.banaag</sys_updated_by>
+            <sys_updated_on>2019-10-03 19:43:59</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rptabafc091db5408d0e55d7b1ebf961975" name="RPTabafc091db5408d0e55d7b1ebf961975">abafc091db5408d0e55d7b1ebf961979</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

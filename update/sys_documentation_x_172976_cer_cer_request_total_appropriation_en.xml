@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="total_appropriation" label="Total Appropriation" language="en" table="x_172976_cer_cer_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>total_appropriation</element>
+            <help/>
+            <hint/>
+            <label>Total Appropriation</label>
+            <language>en</language>
+            <name>x_172976_cer_cer_request</name>
+            <plural>Total Appropriations</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-22 12:41:35</sys_created_on>
+            <sys_id>a7870ea9dbcc4890e55d7b1ebf961906</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Total Appropriation</sys_name>
+            <sys_package display_value="CER" source="x_172976_cer">8a858cc1dbc0c490e55d7b1ebf961994</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CER">8a858cc1dbc0c490e55d7b1ebf961994</sys_scope>
+            <sys_update_name>sys_documentation_x_172976_cer_cer_request_total_appropriation_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-22 12:41:35</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

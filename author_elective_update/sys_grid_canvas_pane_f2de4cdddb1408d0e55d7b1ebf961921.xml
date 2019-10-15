@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="DELETE">
+        <grid_canvas display_value="PA New Tab">8bbe0cdddb1408d0e55d7b1ebf9619ed</grid_canvas>
+        <height>10</height>
+        <portal_widget display_value="Created 2019-10-03 12:31:28">b6de4cdddb1408d0e55d7b1ebf96191f</portal_widget>
+        <posx>0</posx>
+        <posy>0</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>ed.banaag</sys_created_by>
+        <sys_created_on>2019-10-03 19:31:28</sys_created_on>
+        <sys_id>f2de4cdddb1408d0e55d7b1ebf961921</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>8bbe0cdddb1408d0e55d7b1ebf9619ed</sys_name>
+        <sys_package display_value="CER" source="x_172976_cer">8a858cc1dbc0c490e55d7b1ebf961994</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CER">8a858cc1dbc0c490e55d7b1ebf961994</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_f2de4cdddb1408d0e55d7b1ebf961921</sys_update_name>
+        <sys_updated_by>ed.banaag</sys_updated_by>
+        <sys_updated_on>2019-10-03 19:31:28</sys_updated_on>
+        <width>12</width>
+    </sys_grid_canvas_pane>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CER">8a858cc1dbc0c490e55d7b1ebf961994</application>
+        <file_path/>
+        <instance_id>66b7c97d4f0f12007b9b220f0310c733</instance_id>
+        <instance_name>dev22672</instance_name>
+        <name>sys_grid_canvas_pane_f2de4cdddb1408d0e55d7b1ebf961921</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA New Tab">8bbe0cdddb1408d0e55d7b1ebf9619ed</grid_canvas><height>10</height><portal_widget display_value="Created 2019-10-03 12:31:28">b6de4cdddb1408d0e55d7b1ebf96191f</portal_widget><posx>0</posx><posy>0</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>ed.banaag</sys_created_by><sys_created_on>2019-10-03 19:31:28</sys_created_on><sys_id>f2de4cdddb1408d0e55d7b1ebf961921</sys_id><sys_mod_count>0</sys_mod_count><sys_name>8bbe0cdddb1408d0e55d7b1ebf9619ed</sys_name><sys_package display_value="CER" source="x_172976_cer">8a858cc1dbc0c490e55d7b1ebf961994</sys_package><sys_policy/><sys_scope display_value="CER">8a858cc1dbc0c490e55d7b1ebf961994</sys_scope><sys_update_name>sys_grid_canvas_pane_f2de4cdddb1408d0e55d7b1ebf961921</sys_update_name><sys_updated_by>ed.banaag</sys_updated_by><sys_updated_on>2019-10-03 19:31:28</sys_updated_on><width>12</width></sys_grid_canvas_pane></record_update>]]></payload>
+        <payload_hash>-1176507395</payload_hash>
+        <record_name>8bbe0cdddb1408d0e55d7b1ebf9619ed</record_name>
+        <reverted_from/>
+        <source>0e850c05dbc0c490e55d7b1ebf9619df</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>ed.banaag</sys_created_by>
+        <sys_created_on>2019-10-03 19:31:28</sys_created_on>
+        <sys_id>f6de4cdddb1408d0e55d7b1ebf961922</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16d931b15ca0000001</sys_recorded_at>
+        <sys_updated_by>ed.banaag</sys_updated_by>
+        <sys_updated_on>2019-10-03 19:31:28</sys_updated_on>
+        <type>Grid Canvas Pane</type>
+        <update_guid>32de4cdd751408d0ced83d8de91ff022</update_guid>
+        <update_guid_history>32de4cdd751408d0ced83d8de91ff022:-1176507395</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>ed.banaag</sys_created_by>
+        <sys_created_on>2019-10-03 19:31:44</sys_created_on>
+        <sys_db_object display_value="" name="sys_grid_canvas_pane">sys_grid_canvas_pane</sys_db_object>
+        <sys_id>04eb838e17c946508020865809d81240</sys_id>
+        <sys_metadata>f2de4cdddb1408d0e55d7b1ebf961921</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>8bbe0cdddb1408d0e55d7b1ebf9619ed</sys_name>
+        <sys_package display_value="CER" source="x_172976_cer">8a858cc1dbc0c490e55d7b1ebf961994</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CER">8a858cc1dbc0c490e55d7b1ebf961994</sys_scope>
+        <sys_scope_delete display_value="">4958406062eb4f969acbb5398f225bc4</sys_scope_delete>
+        <sys_update_name>sys_grid_canvas_pane_f2de4cdddb1408d0e55d7b1ebf961921</sys_update_name>
+        <sys_update_version display_value="sys_grid_canvas_pane_f2de4cdddb1408d0e55d7b1ebf961921">f6de4cdddb1408d0e55d7b1ebf961922</sys_update_version>
+        <sys_updated_by>ed.banaag</sys_updated_by>
+        <sys_updated_on>2019-10-03 19:31:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

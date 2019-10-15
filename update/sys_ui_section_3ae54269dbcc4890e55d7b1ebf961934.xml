@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="CAPITALIZATION ASSIGNMENT" section_id="3ae54269dbcc4890e55d7b1ebf961934" sys_domain="global" table="x_172976_cer_cer_request" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>plant</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-03 13:36:01</sys_created_on>
+            <sys_id>008db285dbdcc4d0e55d7b1ebf961976</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="CAPITALIZATION ASSIGNMENT" display_value="CAPITALIZATION ASSIGNMENT" name="x_172976_cer_cer_request" sys_domain="global" view="Default view">3ae54269dbcc4890e55d7b1ebf961934</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-03 13:36:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>accountable_project_manager</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-03 13:36:01</sys_created_on>
+            <sys_id>848db285dbdcc4d0e55d7b1ebf961976</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="CAPITALIZATION ASSIGNMENT" display_value="CAPITALIZATION ASSIGNMENT" name="x_172976_cer_cer_request" sys_domain="global" view="Default view">3ae54269dbcc4890e55d7b1ebf961934</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-03 13:36:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>plant_controller</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-03 13:36:01</sys_created_on>
+            <sys_id>0c8db285dbdcc4d0e55d7b1ebf961976</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="CAPITALIZATION ASSIGNMENT" display_value="CAPITALIZATION ASSIGNMENT" name="x_172976_cer_cer_request" sys_domain="global" view="Default view">3ae54269dbcc4890e55d7b1ebf961934</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-03 13:36:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>plant_manager_staff_dir</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-03 13:36:02</sys_created_on>
+            <sys_id>808db285dbdcc4d0e55d7b1ebf961977</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="CAPITALIZATION ASSIGNMENT" display_value="CAPITALIZATION ASSIGNMENT" name="x_172976_cer_cer_request" sys_domain="global" view="Default view">3ae54269dbcc4890e55d7b1ebf961934</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-03 13:36:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-03 13:36:02</sys_created_on>
+            <sys_id>088db285dbdcc4d0e55d7b1ebf961977</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="CAPITALIZATION ASSIGNMENT" display_value="CAPITALIZATION ASSIGNMENT" name="x_172976_cer_cer_request" sys_domain="global" view="Default view">3ae54269dbcc4890e55d7b1ebf961934</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-03 13:36:02</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>useful_life</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-03 13:36:02</sys_created_on>
+            <sys_id>8c8db285dbdcc4d0e55d7b1ebf961977</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="CAPITALIZATION ASSIGNMENT" display_value="CAPITALIZATION ASSIGNMENT" name="x_172976_cer_cer_request" sys_domain="global" view="Default view">3ae54269dbcc4890e55d7b1ebf961934</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-03 13:36:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>CAPITALIZATION ASSIGNMENT</caption>
+            <header>false</header>
+            <name>x_172976_cer_cer_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-22 12:34:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3ae54269dbcc4890e55d7b1ebf961934</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>CAPITALIZATION ASSIGNMENT</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="CER" source="x_172976_cer">8a858cc1dbc0c490e55d7b1ebf961994</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CER">8a858cc1dbc0c490e55d7b1ebf961994</sys_scope>
+            <sys_update_name>sys_ui_section_3ae54269dbcc4890e55d7b1ebf961934</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-22 12:34:26</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

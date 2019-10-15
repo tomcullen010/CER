@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="EXPENDITURE PROFILE" section_id="16960e69dbcc4890e55d7b1ebf961912" sys_domain="global" table="x_172976_cer_cer_request" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>project_expense</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-22 12:42:40</sys_created_on>
+            <sys_id>1bc742e9dbcc4890e55d7b1ebf961997</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="EXPENDITURE PROFILE" display_value="EXPENDITURE PROFILE" name="x_172976_cer_cer_request" sys_domain="global" view="Default view">16960e69dbcc4890e55d7b1ebf961912</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-22 12:42:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>plant_startup_expense</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-22 12:42:40</sys_created_on>
+            <sys_id>9fc742e9dbcc4890e55d7b1ebf961997</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="EXPENDITURE PROFILE" display_value="EXPENDITURE PROFILE" name="x_172976_cer_cer_request" sys_domain="global" view="Default view">16960e69dbcc4890e55d7b1ebf961912</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-22 12:42:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>total_appropriation</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-22 12:42:40</sys_created_on>
+            <sys_id>17c742e9dbcc4890e55d7b1ebf961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="EXPENDITURE PROFILE" display_value="EXPENDITURE PROFILE" name="x_172976_cer_cer_request" sys_domain="global" view="Default view">16960e69dbcc4890e55d7b1ebf961912</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-22 12:42:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-22 12:42:40</sys_created_on>
+            <sys_id>9bc742e9dbcc4890e55d7b1ebf961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="EXPENDITURE PROFILE" display_value="EXPENDITURE PROFILE" name="x_172976_cer_cer_request" sys_domain="global" view="Default view">16960e69dbcc4890e55d7b1ebf961912</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-22 12:42:40</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>net_working_cap_increase</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-22 12:42:40</sys_created_on>
+            <sys_id>13c742e9dbcc4890e55d7b1ebf961999</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="EXPENDITURE PROFILE" display_value="EXPENDITURE PROFILE" name="x_172976_cer_cer_request" sys_domain="global" view="Default view">16960e69dbcc4890e55d7b1ebf961912</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-22 12:42:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>supply_stores_increase</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-22 12:42:40</sys_created_on>
+            <sys_id>97c742e9dbcc4890e55d7b1ebf961999</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="EXPENDITURE PROFILE" display_value="EXPENDITURE PROFILE" name="x_172976_cer_cer_request" sys_domain="global" view="Default view">16960e69dbcc4890e55d7b1ebf961912</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-22 12:42:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>other</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-22 12:42:40</sys_created_on>
+            <sys_id>1fc742e9dbcc4890e55d7b1ebf961999</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="EXPENDITURE PROFILE" display_value="EXPENDITURE PROFILE" name="x_172976_cer_cer_request" sys_domain="global" view="Default view">16960e69dbcc4890e55d7b1ebf961912</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-22 12:42:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>EXPENDITURE PROFILE</caption>
+            <header>false</header>
+            <name>x_172976_cer_cer_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-22 12:37:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>16960e69dbcc4890e55d7b1ebf961912</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>EXPENDITURE PROFILE</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="CER" source="x_172976_cer">8a858cc1dbc0c490e55d7b1ebf961994</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CER">8a858cc1dbc0c490e55d7b1ebf961994</sys_scope>
+            <sys_update_name>sys_ui_section_16960e69dbcc4890e55d7b1ebf961912</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-22 12:37:24</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

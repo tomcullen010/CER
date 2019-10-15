@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_decision">
+    <sys_decision action="DELETE">
+        <access>package_private</access>
+        <active>true</active>
+        <answer_table>x_172976_cer_cer_request</answer_table>
+        <answer_type>reference</answer_type>
+        <label/>
+        <name>Global Operations Approval</name>
+        <reference_qualifier/>
+        <sys_class_name>sys_decision</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-10 17:02:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3cbf6b93db104014e55d7b1ebf9619fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Global Operations Approval</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CER" source="x_172976_cer">8a858cc1dbc0c490e55d7b1ebf961994</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CER">8a858cc1dbc0c490e55d7b1ebf961994</sys_scope>
+        <sys_update_name>sys_decision_3cbf6b93db104014e55d7b1ebf9619fe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-10 17:02:19</sys_updated_on>
+    </sys_decision>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CER">8a858cc1dbc0c490e55d7b1ebf961994</application>
+        <file_path/>
+        <instance_id>66b7c97d4f0f12007b9b220f0310c733</instance_id>
+        <instance_name>dev22672</instance_name>
+        <name>sys_decision_3cbf6b93db104014e55d7b1ebf9619fe</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_decision"><sys_decision action="INSERT_OR_UPDATE"><access>package_private</access><active>true</active><answer_table>x_172976_cer_cer_request</answer_table><answer_type>reference</answer_type><label/><name>Global Operations Approval</name><reference_qualifier/><sys_class_name>sys_decision</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-10 17:02:19</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3cbf6b93db104014e55d7b1ebf9619fe</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Global Operations Approval</sys_name><sys_overrides/><sys_package display_value="CER" source="x_172976_cer">8a858cc1dbc0c490e55d7b1ebf961994</sys_package><sys_policy/><sys_scope display_value="CER">8a858cc1dbc0c490e55d7b1ebf961994</sys_scope><sys_update_name>sys_decision_3cbf6b93db104014e55d7b1ebf9619fe</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-10 17:02:19</sys_updated_on></sys_decision></record_update>]]></payload>
+        <payload_hash>1178594124</payload_hash>
+        <record_name>Global Operations Approval</record_name>
+        <reverted_from/>
+        <source>0e850c05dbc0c490e55d7b1ebf9619df</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-10 17:02:19</sys_created_on>
+        <sys_id>52dfaf93db104014e55d7b1ebf96191b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16db69f0a320000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-10 17:02:19</sys_updated_on>
+        <type>Decision Table</type>
+        <update_guid>8adfaf93631040148c9fb3867b65a01a</update_guid>
+        <update_guid_history>8adfaf93631040148c9fb3867b65a01a:1178594124</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-11 13:33:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_decision">sys_decision</sys_db_object>
+        <sys_id>55db7598e6c84fe884fd14dcde92dae4</sys_id>
+        <sys_metadata>3cbf6b93db104014e55d7b1ebf9619fe</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Global Operations Approval</sys_name>
+        <sys_package display_value="CER" source="x_172976_cer">8a858cc1dbc0c490e55d7b1ebf961994</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CER">8a858cc1dbc0c490e55d7b1ebf961994</sys_scope>
+        <sys_scope_delete display_value="">4958406062eb4f969acbb5398f225bc4</sys_scope_delete>
+        <sys_update_name>sys_decision_3cbf6b93db104014e55d7b1ebf9619fe</sys_update_name>
+        <sys_update_version display_value="sys_decision_3cbf6b93db104014e55d7b1ebf9619fe">52dfaf93db104014e55d7b1ebf96191b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-11 13:33:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

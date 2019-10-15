@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_rl_action">
+    <sys_ui_policy_rl_action action="INSERT_OR_UPDATE">
+        <list>sysapproval_approver.sysapproval</list>
+        <sys_class_name>sys_ui_policy_rl_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-03 13:49:40</sys_created_on>
+        <sys_id>e380c749dbdcc4d0e55d7b1ebf9619a6</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>sysapproval_approver.sysapproval</sys_name>
+        <sys_package display_value="CER" source="x_172976_cer">8a858cc1dbc0c490e55d7b1ebf961994</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CER">8a858cc1dbc0c490e55d7b1ebf961994</sys_scope>
+        <sys_update_name>sys_ui_policy_rl_action_e380c749dbdcc4d0e55d7b1ebf9619a6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-03 13:51:33</sys_updated_on>
+        <ui_policy display_value="only show approvers related list if plant  = general plant or plant warehouse">d2308349dbdcc4d0e55d7b1ebf961913</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_rl_action>
+</record_update>

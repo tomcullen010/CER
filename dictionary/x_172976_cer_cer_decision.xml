@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="CER Decision" max_length="40" name="x_172976_cer_cer_decision" type="collection">
+        <element label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2019-10-15 12:15:36">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>ed.banaag</sys_created_by>
+        <sys_created_on>2019-10-03 19:30:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>87be0cdddb1408d0e55d7b1ebf9619ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CER" source="x_172976_cer">8a858cc1dbc0c490e55d7b1ebf961994</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CER">8a858cc1dbc0c490e55d7b1ebf961994</sys_scope>
+        <sys_update_name>sys_portal_page_87be0cdddb1408d0e55d7b1ebf9619ec</sys_update_name>
+        <sys_updated_by>ed.banaag</sys_updated_by>
+        <sys_updated_on>2019-10-03 19:30:57</sys_updated_on>
+        <title>PA New Tab</title>
+        <user/>
+        <view>pa_new_tab_13</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">87be0cdddb1408d0e55d7b1ebf9619ec</page>
+                <summary>Bar on CER Request table by priority created by ed banaag: 2019-10-03 12:34:29</summary>
+                <sys_created_by>ed.banaag</sys_created_by>
+                <sys_created_on>2019-10-03 19:35:35</sys_created_on>
+                <sys_id>0bcfc0d1db5408d0e55d7b1ebf961952</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>ed.banaag</sys_updated_by>
+                <sys_updated_on>2019-10-03 19:35:35</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2019-10-03 12:35:35">0bcfc0d1db5408d0e55d7b1ebf961952</portal_section>
+                        <sys_created_by>ed.banaag</sys_created_by>
+                        <sys_created_on>2019-10-03 19:35:35</sys_created_on>
+                        <sys_id>07cfc0d1db5408d0e55d7b1ebf961953</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>ed.banaag</sys_updated_by>
+                        <sys_updated_on>2019-10-03 19:35:35</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2019-10-03 12:35:35">0bcfc0d1db5408d0e55d7b1ebf961952</portal_section>
+                        <sys_created_by>ed.banaag</sys_created_by>
+                        <sys_created_on>2019-10-03 19:35:35</sys_created_on>
+                        <sys_id>0fcfc0d1db5408d0e55d7b1ebf961952</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>ed.banaag</sys_updated_by>
+                        <sys_updated_on>2019-10-03 19:35:35</sys_updated_on>
+                        <value>abafc091db5408d0e55d7b1ebf961975</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2019-10-03 12:35:35">0bcfc0d1db5408d0e55d7b1ebf961952</portal_section>
+                        <sys_created_by>ed.banaag</sys_created_by>
+                        <sys_created_on>2019-10-03 19:35:35</sys_created_on>
+                        <sys_id>43cfc0d1db5408d0e55d7b1ebf961953</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>ed.banaag</sys_updated_by>
+                        <sys_updated_on>2019-10-03 19:35:35</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2019-10-03 12:35:35">0bcfc0d1db5408d0e55d7b1ebf961952</portal_section>
+                        <sys_created_by>ed.banaag</sys_created_by>
+                        <sys_created_on>2019-10-03 19:35:35</sys_created_on>
+                        <sys_id>4fcfc0d1db5408d0e55d7b1ebf961953</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>ed.banaag</sys_updated_by>
+                        <sys_updated_on>2019-10-03 19:35:35</sys_updated_on>
+                        <value>Bar on CER Request table by priority created by ed banaag: 2019-10-03 12:34:29</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2019-10-03 12:35:35">0bcfc0d1db5408d0e55d7b1ebf961952</portal_section>
+                        <sys_created_by>ed.banaag</sys_created_by>
+                        <sys_created_on>2019-10-03 19:35:35</sys_created_on>
+                        <sys_id>8bcfc0d1db5408d0e55d7b1ebf961953</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>ed.banaag</sys_updated_by>
+                        <sys_updated_on>2019-10-03 19:35:35</sys_updated_on>
+                        <value>list</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2019-10-03 12:35:35">0bcfc0d1db5408d0e55d7b1ebf961952</portal_section>
+                        <sys_created_by>ed.banaag</sys_created_by>
+                        <sys_created_on>2019-10-03 19:35:35</sys_created_on>
+                        <sys_id>c7cfc0d1db5408d0e55d7b1ebf961953</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>ed.banaag</sys_updated_by>
+                        <sys_updated_on>2019-10-03 19:35:35</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2019-10-03 12:35:35">0bcfc0d1db5408d0e55d7b1ebf961952</portal_section>
+                        <sys_created_by>ed.banaag</sys_created_by>
+                        <sys_created_on>2019-10-03 19:41:09</sys_created_on>
+                        <sys_id>f0119055db5408d0e55d7b1ebf961915</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>ed.banaag</sys_updated_by>
+                        <sys_updated_on>2019-10-03 19:41:09</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2019-10-03 12:35:35">0bcfc0d1db5408d0e55d7b1ebf961952</portal_section>
+                        <sys_created_by>ed.banaag</sys_created_by>
+                        <sys_created_on>2019-10-03 19:41:09</sys_created_on>
+                        <sys_id>f0119055db5408d0e55d7b1ebf961916</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>ed.banaag</sys_updated_by>
+                        <sys_updated_on>2019-10-03 19:41:09</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2019-10-03 12:35:35">0bcfc0d1db5408d0e55d7b1ebf961952</portal_section>
+                        <sys_created_by>ed.banaag</sys_created_by>
+                        <sys_created_on>2019-10-03 19:41:09</sys_created_on>
+                        <sys_id>f4119055db5408d0e55d7b1ebf961915</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>ed.banaag</sys_updated_by>
+                        <sys_updated_on>2019-10-03 19:41:09</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2019-10-03 12:35:35">0bcfc0d1db5408d0e55d7b1ebf961952</portal_section>
+                        <sys_created_by>ed.banaag</sys_created_by>
+                        <sys_created_on>2019-10-03 19:41:09</sys_created_on>
+                        <sys_id>f4119055db5408d0e55d7b1ebf961916</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>ed.banaag</sys_updated_by>
+                        <sys_updated_on>2019-10-03 19:41:09</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2019-10-03 12:35:35">0bcfc0d1db5408d0e55d7b1ebf961952</portal_section>
+                        <sys_created_by>ed.banaag</sys_created_by>
+                        <sys_created_on>2019-10-03 19:41:09</sys_created_on>
+                        <sys_id>f8119055db5408d0e55d7b1ebf961915</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>ed.banaag</sys_updated_by>
+                        <sys_updated_on>2019-10-03 19:41:09</sys_updated_on>
+                        <value>left</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2019-10-03 12:35:35">0bcfc0d1db5408d0e55d7b1ebf961952</portal_section>
+                        <sys_created_by>ed.banaag</sys_created_by>
+                        <sys_created_on>2019-10-03 19:41:09</sys_created_on>
+                        <sys_id>f8119055db5408d0e55d7b1ebf961916</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>ed.banaag</sys_updated_by>
+                        <sys_updated_on>2019-10-03 19:41:09</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2019-10-03 12:35:35">0bcfc0d1db5408d0e55d7b1ebf961952</portal_section>
+                        <sys_created_by>ed.banaag</sys_created_by>
+                        <sys_created_on>2019-10-03 19:41:09</sys_created_on>
+                        <sys_id>fc119055db5408d0e55d7b1ebf961915</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>ed.banaag</sys_updated_by>
+                        <sys_updated_on>2019-10-03 19:41:09</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2019-10-03 12:35:35">0bcfc0d1db5408d0e55d7b1ebf961952</portal_section>
+                        <sys_created_by>ed.banaag</sys_created_by>
+                        <sys_created_on>2019-10-03 19:41:09</sys_created_on>
+                        <sys_id>fc119055db5408d0e55d7b1ebf961916</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>ed.banaag</sys_updated_by>
+                        <sys_updated_on>2019-10-03 19:41:09</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">87be0cdddb1408d0e55d7b1ebf9619ec</page>
+                <summary>Bar on CER Request table by priority created by ed banaag: 2019-10-03 12:24:28</summary>
+                <sys_created_by>ed.banaag</sys_created_by>
+                <sys_created_on>2019-10-03 19:32:00</sys_created_on>
+                <sys_id>a6fe0851db5408d0e55d7b1ebf9619c5</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>ed.banaag</sys_updated_by>
+                <sys_updated_on>2019-10-03 19:32:00</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2019-10-03 12:32:00">a6fe0851db5408d0e55d7b1ebf9619c5</portal_section>
+                        <sys_created_by>ed.banaag</sys_created_by>
+                        <sys_created_on>2019-10-03 19:32:00</sys_created_on>
+                        <sys_id>2afe0851db5408d0e55d7b1ebf9619c6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>ed.banaag</sys_updated_by>
+                        <sys_updated_on>2019-10-03 19:32:00</sys_updated_on>
+                        <value>horizontal_bar</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2019-10-03 12:32:00">a6fe0851db5408d0e55d7b1ebf9619c5</portal_section>
+                        <sys_created_by>ed.banaag</sys_created_by>
+                        <sys_created_on>2019-10-03 19:32:00</sys_created_on>
+                        <sys_id>66fe0851db5408d0e55d7b1ebf9619c6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>ed.banaag</sys_updated_by>
+                        <sys_updated_on>2019-10-03 19:32:00</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2019-10-03 12:32:00">a6fe0851db5408d0e55d7b1ebf9619c5</portal_section>
+                        <sys_created_by>ed.banaag</sys_created_by>
+                        <sys_created_on>2019-10-03 19:32:00</sys_created_on>
+                        <sys_id>a2fe0851db5408d0e55d7b1ebf9619c6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>ed.banaag</sys_updated_by>
+                        <sys_updated_on>2019-10-03 19:32:00</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2019-10-03 12:32:00">a6fe0851db5408d0e55d7b1ebf9619c5</portal_section>
+                        <sys_created_by>ed.banaag</sys_created_by>
+                        <sys_created_on>2019-10-03 19:32:00</sys_created_on>
+                        <sys_id>aafe0851db5408d0e55d7b1ebf9619c5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>ed.banaag</sys_updated_by>
+                        <sys_updated_on>2019-10-03 19:32:00</sys_updated_on>
+                        <value>cd8d401ddb1408d0e55d7b1ebf9619ea</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2019-10-03 12:32:00">a6fe0851db5408d0e55d7b1ebf9619c5</portal_section>
+                        <sys_created_by>ed.banaag</sys_created_by>
+                        <sys_created_on>2019-10-03 19:32:00</sys_created_on>
+                        <sys_id>eafe0851db5408d0e55d7b1ebf9619c6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>ed.banaag</sys_updated_by>
+                        <sys_updated_on>2019-10-03 19:32:00</sys_updated_on>
+                        <value>Bar on CER Request table by priority created by ed banaag: 2019-10-03 12:24:28</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2019-10-03 12:32:00">a6fe0851db5408d0e55d7b1ebf9619c5</portal_section>
+                        <sys_created_by>ed.banaag</sys_created_by>
+                        <sys_created_on>2019-10-03 19:32:00</sys_created_on>
+                        <sys_id>eefe0851db5408d0e55d7b1ebf9619c5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>ed.banaag</sys_updated_by>
+                        <sys_updated_on>2019-10-03 19:32:00</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">87be0cdddb1408d0e55d7b1ebf9619ec</page>
+                <summary>Bar on CER Request table by state created by ed banaag: 2019-10-03 12:22:47</summary>
+                <sys_created_by>ed.banaag</sys_created_by>
+                <sys_created_on>2019-10-03 19:31:20</sys_created_on>
+                <sys_id>f8de0c51db5408d0e55d7b1ebf961992</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>ed.banaag</sys_updated_by>
+                <sys_updated_on>2019-10-03 19:31:20</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2019-10-03 12:31:20">f8de0c51db5408d0e55d7b1ebf961992</portal_section>
+                        <sys_created_by>ed.banaag</sys_created_by>
+                        <sys_created_on>2019-10-03 19:31:20</sys_created_on>
+                        <sys_id>34de0c51db5408d0e55d7b1ebf961994</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>ed.banaag</sys_updated_by>
+                        <sys_updated_on>2019-10-03 19:31:20</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2019-10-03 12:31:20">f8de0c51db5408d0e55d7b1ebf961992</portal_section>
+                        <sys_created_by>ed.banaag</sys_created_by>
+                        <sys_created_on>2019-10-03 19:31:20</sys_created_on>
+                        <sys_id>38dec091db5408d0e55d7b1ebf96196e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>ed.banaag</sys_updated_by>
+                        <sys_updated_on>2019-10-03 19:31:20</sys_updated_on>
+                        <value>Bar on CER Request table by state created by ed banaag: 2019-10-03 12:22:47</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2019-10-03 12:31:20">f8de0c51db5408d0e55d7b1ebf961992</portal_section>
+                        <sys_created_by>ed.banaag</sys_created_by>
+                        <sys_created_on>2019-10-03 19:31:20</sys_created_on>
+                        <sys_id>70de0c51db5408d0e55d7b1ebf961994</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>ed.banaag</sys_updated_by>
+                        <sys_updated_on>2019-10-03 19:31:20</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2019-10-03 12:31:20">f8de0c51db5408d0e55d7b1ebf961992</portal_section>
+                        <sys_created_by>ed.banaag</sys_created_by>
+                        <sys_created_on>2019-10-03 19:31:20</sys_created_on>
+                        <sys_id>74dec091db5408d0e55d7b1ebf96196e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>ed.banaag</sys_updated_by>
+                        <sys_updated_on>2019-10-03 19:31:20</sys_updated_on>
+                        <value>donut</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2019-10-03 12:31:20">f8de0c51db5408d0e55d7b1ebf961992</portal_section>
+                        <sys_created_by>ed.banaag</sys_created_by>
+                        <sys_created_on>2019-10-03 19:31:20</sys_created_on>
+                        <sys_id>b0dec091db5408d0e55d7b1ebf96196e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>ed.banaag</sys_updated_by>
+                        <sys_updated_on>2019-10-03 19:31:20</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2019-10-03 12:31:20">f8de0c51db5408d0e55d7b1ebf961992</portal_section>
+                        <sys_created_by>ed.banaag</sys_created_by>
+                        <sys_created_on>2019-10-03 19:31:20</sys_created_on>
+                        <sys_id>b4de0c51db5408d0e55d7b1ebf961993</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>ed.banaag</sys_updated_by>
+                        <sys_updated_on>2019-10-03 19:31:20</sys_updated_on>
+                        <value>b32dc4dddb1408d0e55d7b1ebf961915</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

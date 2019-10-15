@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_decision">
+    <sys_decision action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <answer_table>x_172976_cer_cer_decision</answer_table>
+        <answer_type>reference</answer_type>
+        <label/>
+        <name>CER Dynamic Approvals</name>
+        <reference_qualifier/>
+        <sys_class_name>sys_decision</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-11 13:47:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ff9c84b7db508014e55d7b1ebf9619e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CER Dynamic Approvals</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CER" source="x_172976_cer">8a858cc1dbc0c490e55d7b1ebf961994</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CER">8a858cc1dbc0c490e55d7b1ebf961994</sys_scope>
+        <sys_update_name>sys_decision_ff9c84b7db508014e55d7b1ebf9619e5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-11 13:47:04</sys_updated_on>
+    </sys_decision>
+</record_update>

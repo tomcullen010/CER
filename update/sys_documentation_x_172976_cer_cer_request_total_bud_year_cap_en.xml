@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="total_bud_year_cap" label="Total BUD Year Cap" language="en" table="x_172976_cer_cer_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>total_bud_year_cap</element>
+            <help/>
+            <hint/>
+            <label>Total BUD Year Cap</label>
+            <language>en</language>
+            <name>x_172976_cer_cer_request</name>
+            <plural>Total BUD Year Caps</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-22 12:51:30</sys_created_on>
+            <sys_id>f0d9c26ddbcc4890e55d7b1ebf961958</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Total BUD Year Cap</sys_name>
+            <sys_package display_value="CER" source="x_172976_cer">8a858cc1dbc0c490e55d7b1ebf961994</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CER">8a858cc1dbc0c490e55d7b1ebf961994</sys_scope>
+            <sys_update_name>sys_documentation_x_172976_cer_cer_request_total_bud_year_cap_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-22 12:51:30</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_172976_cer.cer_decision_user" name="x_172976_cer.cer_decision_user">d7380037db508014e55d7b1ebf961979</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-11 13:27:22</sys_created_on>
+        <sys_id>9b380037db508014e55d7b1ebf96197c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>d7380037db508014e55d7b1ebf961979</sys_name>
+        <sys_package display_value="CER" source="x_172976_cer">8a858cc1dbc0c490e55d7b1ebf961994</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CER">8a858cc1dbc0c490e55d7b1ebf961994</sys_scope>
+        <sys_update_name>sys_embedded_help_role_9b380037db508014e55d7b1ebf96197c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-11 13:27:22</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

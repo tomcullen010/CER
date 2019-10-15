@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="CER Request" max_length="40" name="x_172976_cer_cer_request" sizeclass="16" type="collection">
+        <element label="Accountable Project Manager" max_length="32" name="accountable_project_manager" reference="sys_user" reference_qual="javascript:var gr = new GlideRecord('sys_user_grmember');gr.addQuery('group',&quot;fcc5d269db008890e55d7b1ebf961938&quot;);gr.query();var users='';while(gr.next()){users+=gr.user.sys_id + &quot;,&quot;;}&quot;sys_idIN&quot; + users;" type="reference" use_reference_qualifier="advanced"/>
+        <element label="Additional Approver1" max_length="32" name="additional_approver1" reference="sys_user" type="reference"/>
+        <element label="Additional Approver2" max_length="32" name="additional_approver2" reference="sys_user" type="reference"/>
+        <element label="Additional Approver3" max_length="32" name="additional_approver3" reference="sys_user" type="reference"/>
+        <element label="Additional Approver4" max_length="32" name="additional_approver4" reference="sys_user" type="reference"/>
+        <element label="Approved YTD" max_length="20" name="approved_ytd" type="currency"/>
+        <element label="Budgeted" max_length="40" name="budgeted" type="boolean"/>
+        <element label="Capital" max_length="20" name="capital" type="currency"/>
+        <element label="CER Amount" mandatory="true" max_length="20" name="cer_amount" type="currency"/>
+        <element choice="1" label="Classification" max_length="40" name="classification" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Land / Buildings" sequence="10" value="land_buildings"/>
+                <element inactive_on_update="false" label="Bldg/Lease Improvements" sequence="20" value="bldg_lease_improvements"/>
+                <element inactive_on_update="false" label="Mach &amp; Equipment" sequence="30" value="mach_equipment"/>
+                <element inactive_on_update="false" label="Tel/Computing Eq" sequence="40" value="tel_computing"/>
+                <element inactive_on_update="false" label="Office / Lab Equip" sequence="50" value="office_lab_equip"/>
+                <element inactive_on_update="false" label="Major Maintenance" sequence="60" value="major_maintenance"/>
+            </choice>
+        </element>
+        <element choice="1" label="Division" max_length="40" name="division" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Consumer Domestic" sequence="10" value="consumer_domestic"/>
+                <element inactive_on_update="false" label="Consumer International" sequence="20" value="consumer_international"/>
+                <element inactive_on_update="false" label="Specialty Products" sequence="30" value="specialty_products"/>
+                <element inactive_on_update="false" label="Non-Division Specific / Corporate" sequence="40" value="non-division_specific"/>
+            </choice>
+        </element>
+        <element label="Justification" max_length="4000" name="justification" type="glide_list"/>
+        <element label="Net Working Cap Increase" max_length="20" name="net_working_cap_increase" type="currency"/>
+        <element default="0" label="Next Year Cap" max_length="20" name="next_year_cap" type="currency"/>
+        <element default="0" label="Next Year Proj" max_length="20" name="next_year_proj" type="currency"/>
+        <element label="OAA1" max_length="32" name="oaa1" reference="sys_user_group" reference_qual="parent=574392e5db008890e55d7b1ebf96197e^EQ" reference_qual_condition="parent=574392e5db008890e55d7b1ebf96197e^EQ" type="reference"/>
+        <element choice_field="calendar_integration" choice_table="sys_user" dependent="oaa1" dependent_on_field="oaa1" label="OAA1b" max_length="32" name="oaa1b" reference="sys_user" reference_qual="javascript:var gr = new GlideRecord('sys_user_grmember');gr.addQuery('group',current.oaa1);gr.query();var users='';while(gr.next()){users+=gr.user.sys_id + &quot;,&quot;;}&quot;sys_idIN&quot; + users;&#13;&#10;" type="reference" use_dependent_field="true" use_reference_qualifier="advanced"/>
+        <element label="OAA2" max_length="32" name="oaa2" reference="sys_user_group" reference_qual="parent=574392e5db008890e55d7b1ebf96197e^EQ" reference_qual_condition="parent=574392e5db008890e55d7b1ebf96197e^EQ" type="reference"/>
+        <element label="OAA2b" max_length="32" name="oaa2b" reference="sys_user" reference_qual="javascript:var gr = new GlideRecord('sys_user_grmember');gr.addQuery('group',current.oaa2);gr.query();var users='';while(gr.next()){users+=gr.user.sys_id + &quot;,&quot;;}&quot;sys_idIN&quot; + users;&#13;&#10;" type="reference" use_reference_qualifier="advanced"/>
+        <element label="OAA3" max_length="32" name="oaa3" reference="sys_user_group" reference_qual="parent=574392e5db008890e55d7b1ebf96197e^EQ" reference_qual_condition="parent=574392e5db008890e55d7b1ebf96197e^EQ" type="reference"/>
+        <element label="OAA3b" max_length="32" name="oaa3b" reference="sys_user" reference_qual="javascript:var gr = new GlideRecord('sys_user_grmember');gr.addQuery('group',current.oaa3);gr.query();var users='';while(gr.next()){users+=gr.user.sys_id + &quot;,&quot;;}&quot;sys_idIN&quot; + users;&#13;&#10;" type="reference" use_reference_qualifier="advanced"/>
+        <element label="OAA4" max_length="32" name="oaa4" reference="sys_user_group" reference_qual="parent=574392e5db008890e55d7b1ebf96197e^EQ" reference_qual_condition="parent=574392e5db008890e55d7b1ebf96197e^EQ" type="reference"/>
+        <element label="OAA4b" max_length="32" name="oaa4b" reference="sys_user" reference_qual="javascript:var gr = new GlideRecord('sys_user_grmember');gr.addQuery('group',current.oaa4);gr.query();var users='';while(gr.next()){users+=gr.user.sys_id + &quot;,&quot;;}&quot;sys_idIN&quot; + users;&#13;&#10;" type="reference" use_reference_qualifier="advanced"/>
+        <element label="OAA5" max_length="32" name="oaa5" reference="sys_user_group" reference_qual="parent=574392e5db008890e55d7b1ebf96197e^EQ" reference_qual_condition="parent=574392e5db008890e55d7b1ebf96197e^EQ" type="reference"/>
+        <element label="OAA5b" max_length="32" name="oaa5b" reference="sys_user" reference_qual="javascript:var gr = new GlideRecord('sys_user_grmember');gr.addQuery('group',current.oaa5);gr.query();var users='';while(gr.next()){users+=gr.user.sys_id + &quot;,&quot;;}&quot;sys_idIN&quot; + users;&#13;&#10;" type="reference" use_reference_qualifier="advanced"/>
+        <element label="Office of the CFO " max_length="32" name="office_of_the_cfo" reference="sys_user" reference_qual="javascript:var gr = new GlideRecord('sys_user_grmember');gr.addQuery('group',&quot;87b58f41db1008d0e55d7b1ebf96193b&quot;);gr.query();var users='';while(gr.next()){users+=gr.user.sys_id + &quot;,&quot;;}&quot;sys_idIN&quot; + users;" type="reference" use_reference_qualifier="advanced"/>
+        <element label="Other" max_length="20" name="other" type="currency"/>
+        <element label="Plant" max_length="32" name="plant" reference="business_unit" reference_qual="company=27155e8adbf73f40e55d7b1ebf96195f^EQ" reference_qual_condition="company=27155e8adbf73f40e55d7b1ebf96195f^EQ" type="reference"/>
+        <element label="Plant Controller" max_length="32" name="plant_controller" reference="sys_user" reference_qual="javascript:var gr = new GlideRecord('sys_user_grmember');gr.addQuery('group',&quot;2716d269db008890e55d7b1ebf9619b7&quot;);gr.query();var users='';while(gr.next()){users+=gr.user.sys_id + &quot;,&quot;;}&quot;sys_idIN&quot; + users;" type="reference" use_reference_qualifier="advanced"/>
+        <element label="Plant Manager/Staff Dir" max_length="32" name="plant_manager_staff_dir" reference="sys_user" reference_qual="javascript:var gr = new GlideRecord('sys_user_grmember');gr.addQuery('group',&quot;1c56d269db008890e55d7b1ebf9619bc&quot;);gr.query();var users='';while(gr.next()){users+=gr.user.sys_id + &quot;,&quot;;}&quot;sys_idIN&quot; + users;" type="reference" use_reference_qualifier="advanced"/>
+        <element label="Plant Startup Expense" max_length="20" name="plant_startup_expense" type="currency"/>
+        <element label="Project Duration (months)" mandatory="true" max_length="40" name="project_duration" type="integer"/>
+        <element label="Project Expense" max_length="20" name="project_expense" type="currency"/>
+        <element choice="1" label="Project Type" max_length="40" name="project_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Full Project" sequence="10" value="full_project"/>
+                <element inactive_on_update="false" label="Preliminary Project" sequence="20" value="preliminary_project"/>
+                <element inactive_on_update="false" label="Supplemental Project" sequence="30" value="supplimental_project"/>
+            </choice>
+        </element>
+        <element label="Supply Stores Increase" max_length="20" name="supply_stores_increase" type="currency"/>
+        <element label="Task Rule" max_length="32" name="task_rule" reference="u_task_rule" type="reference"/>
+        <element label="Total Amount" max_length="20" name="total_amount" type="currency"/>
+        <element label="Total Appropriation" max_length="20" name="total_appropriation" read_only="true" type="currency"/>
+        <element default="0" label="Total BUD Year Cap" max_length="20" name="total_bud_year_cap" read_only="true" type="currency"/>
+        <element default="0" label="Total BUD Year Proj" max_length="20" name="total_bud_year_proj" read_only="true" type="currency"/>
+        <element label="Useful Life (YRS)" max_length="40" name="useful_life" type="integer"/>
+        <element default="0" label="1st Quarter Cap" max_length="20" name="u_1st_quarter_cap" type="currency"/>
+        <element default="0" label="1st Quarter Proj" max_length="20" name="u_1st_quarter_proj" type="currency"/>
+        <element default="0" label="2nd Quarter Cap" max_length="20" name="u_2nd_quarter_cap" type="currency"/>
+        <element default="0" label="2nd Quarter Proj" max_length="20" name="u_2nd_quarter_proj" type="currency"/>
+        <element default="0" label="3rd Quarter Cap" max_length="20" name="u_3rd_quarter_cap" type="currency"/>
+        <element default="0" label="3rd Quarter Proj" max_length="20" name="u_3rd_quarter_proj" type="currency"/>
+        <element default="0" label="4th Quarter Cap" max_length="20" name="u_4th_quarter_cap" type="currency"/>
+        <element default="0" label="4th Quarter Proj" max_length="20" name="u_4th_quarter_proj" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="New Journal" max_length="4000" name="u_journal_1" type="journal"/>
+    </element>
+</database>

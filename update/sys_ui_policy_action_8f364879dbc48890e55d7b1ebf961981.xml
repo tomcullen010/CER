@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>oaa1b</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-22 21:55:36</sys_created_on>
+        <sys_id>8f364879dbc48890e55d7b1ebf961981</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>oaa1b</sys_name>
+        <sys_package display_value="CER" source="x_172976_cer">8a858cc1dbc0c490e55d7b1ebf961994</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CER">8a858cc1dbc0c490e55d7b1ebf961994</sys_scope>
+        <sys_update_name>sys_ui_policy_action_8f364879dbc48890e55d7b1ebf961981</sys_update_name>
+        <sys_updated_by>tom.cullen</sys_updated_by>
+        <sys_updated_on>2019-10-03 16:05:34</sys_updated_on>
+        <table>x_172976_cer_cer_request</table>
+        <ui_policy display_value="Show OAA1b when  OAA1- not empty">08c54079dbc48890e55d7b1ebf961992</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>

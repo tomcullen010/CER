@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-20 14:00:32</sys_created_on>
+        <sys_id>2876c845dbc0c490e55d7b1ebf9619ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_172976_cer_cer_task.x_172976_cer.admin</sys_name>
+        <sys_package display_value="CER" source="x_172976_cer">8a858cc1dbc0c490e55d7b1ebf961994</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CER">8a858cc1dbc0c490e55d7b1ebf961994</sys_scope>
+        <sys_security_acl display_value="x_172976_cer_cer_task">a076c845dbc0c490e55d7b1ebf9619ac</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_2876c845dbc0c490e55d7b1ebf9619ae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-20 14:00:32</sys_updated_on>
+        <sys_user_role display_value="x_172976_cer.admin" name="x_172976_cer.admin">ef95c005dbc0c490e55d7b1ebf9619da</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

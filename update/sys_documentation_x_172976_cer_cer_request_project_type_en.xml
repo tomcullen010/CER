@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="project_type" label="Project Type" language="en" table="x_172976_cer_cer_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>project_type</element>
+            <help/>
+            <hint/>
+            <label>Project Type</label>
+            <language>en</language>
+            <name>x_172976_cer_cer_request</name>
+            <plural>Project Types</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-20 14:34:08</sys_created_on>
+            <sys_id>b82e8845db08c490e55d7b1ebf96192a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Project Type</sys_name>
+            <sys_package display_value="CER" source="x_172976_cer">8a858cc1dbc0c490e55d7b1ebf961994</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CER">8a858cc1dbc0c490e55d7b1ebf961994</sys_scope>
+            <sys_update_name>sys_documentation_x_172976_cer_cer_request_project_type_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-20 14:34:08</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
