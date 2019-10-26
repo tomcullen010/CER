@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element audit="true" extends="task" label="CER Request" max_length="40" name="x_172976_cer_cer_request" sizeclass="16" type="collection">
+    <element audit="true" extends="task" label="CER Request" max_length="40" name="x_172976_cer_cer_request" sizeclass="17" type="collection">
         <element label="Accountable Project Manager" max_length="32" name="accountable_project_manager" reference="sys_user" reference_qual="javascript:var gr = new GlideRecord('sys_user_grmember');gr.addQuery('group',&quot;fcc5d269db008890e55d7b1ebf961938&quot;);gr.query();var users='';while(gr.next()){users+=gr.user.sys_id + &quot;,&quot;;}&quot;sys_idIN&quot; + users;" type="reference" use_reference_qualifier="advanced"/>
         <element label="Additional Approver1" max_length="32" name="additional_approver1" reference="sys_user" type="reference"/>
         <element label="Additional Approver2" max_length="32" name="additional_approver2" reference="sys_user" type="reference"/>
