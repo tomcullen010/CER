@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install">
     <sys_push_notif_app_install action="INSERT_OR_UPDATE">
         <active>true</active>
-        <last_registered_on>2019-10-22 17:28:52</last_registered_on>
+        <last_registered_on>2019-10-27 02:38:14</last_registered_on>
         <sys_class_name>sys_push_notif_app_install</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-10-01 19:54:24</sys_created_on>
         <sys_id>5fe08aa8dbd844d0e55d7b1ebf96196a</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>2ce4af44646a5d78649432040bf7d87211a863363de852d0d192b2153ba76177</sys_name>
         <sys_package display_value="CER" source="x_172976_cer">8a858cc1dbc0c490e55d7b1ebf961994</sys_package>
         <sys_policy/>
@@ -15,7 +15,7 @@
         <sys_scope display_value="CER">8a858cc1dbc0c490e55d7b1ebf961994</sys_scope>
         <sys_update_name>sys_push_notif_app_install_5fe08aa8dbd844d0e55d7b1ebf96196a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-10-22 17:28:52</sys_updated_on>
+        <sys_updated_on>2019-10-27 02:38:14</sys_updated_on>
         <sys_user_id display_value="system admin">6816f79cc0a8016401c5a33be04be441</sys_user_id>
         <token>2ce4af44646a5d78649432040bf7d87211a863363de852d0d192b2153ba76177</token>
     </sys_push_notif_app_install>
